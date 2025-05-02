@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Recruitment_System_GUI
+comment0.text=imports\ ArrayList\ to\ store\ staff\ entries\ as\ they\ are\ added
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=panel\ label
+comment2.target=javax.swing.JTextField\ addField(javax.swing.JPanel,\ java.lang.String)
+comment2.text=\ this\ method\ creates\ a\ labeled\ text\ input\ field\ and\ adds\ it\ to\ a\ panel.\ \r\n\ you\ can\ can\ just\ call\ this\ method\ every\ time\ you\ need\ a\ text\ field\ with\ a\ label\ to\ reduce\ repitition\ in\ the\ code\r\n
+comment3.params=emp
+comment3.target=java.lang.String\ getEmployeeDetails(StaffHire)
+comment3.text=\ this\ method\ formats\ and\ returns\ staff\ information\ as\ a\ string\r\n\ it\ takes\ a\ StaffHire\ object(could\ be\ FullTimeStaffHire\ or\ PartTimeStaffHire)\ and\ formats\ it,\ will\ append\ relevent\ fields\ depends\ on\r\n\ full-time\ or\ part-time\ status\r\n
+numComments=4

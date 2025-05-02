@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=FullTimeStaffHire
+comment0.text=this\ makes\ the\ FullTimeStaffHire\ a\ subclass\ of\ StaffHire
+comment1.params=vacancyNumber\ designationType\ jobType\ staffName\ joiningDate\ Qualification\ appointedBy\ joined\ salary\ weekfracHours
+comment1.target=FullTimeStaffHire(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ double,\ int)
+comment1.text=\ this\ is\ a\ constructor\ which\ sets\ the\ inherited\ attributes\ and\ the\ new\r\nfull-time\ specific\ fields,\ the\ super\ keyword\ calls\ the\ parent\ class
+comment2.params=
+comment2.target=double\ getsalary()
+comment2.text=setters\ and\ getters\ for\ new\ attributes
+comment3.params=salary
+comment3.target=void\ setsalary(double)
+comment4.params=
+comment4.target=int\ getweekfracHours()
+comment5.params=weekfracHours
+comment5.target=void\ setweekfracHours(int)
+comment6.params=
+comment6.target=void\ display()
+comment6.text=display\ method\ for\ information\ about\ the\ object,\ calls\ parent\ class\ then\ adds\ own\ attributes
+comment7.params=newSalary
+comment7.target=void\ updateSalary(double)
+comment7.text=method\ to\ update\ the\ salary\ after\ the\ object\ has\ been\ created
+comment8.params=newHours
+comment8.target=void\ updateweekfracHours(int)
+numComments=9
